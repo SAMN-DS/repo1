@@ -1,5 +1,5 @@
+<<<<<<< HEAD
 newbranch
 2em essai
-3e rfeme essai
-04em
+3 clean now
 
